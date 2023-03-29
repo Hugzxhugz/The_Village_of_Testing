@@ -1,0 +1,196 @@
+{
+  "daysPassed": 17,
+  "villageCapacity": 12,
+  "food": 69,
+  "wood": 1,
+  "metal": 36,
+  "workersList": [
+    {
+      "name": "James",
+      "workerType": "BUILDER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Kent",
+      "workerType": "BUILDER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Jan",
+      "workerType": "FARMER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Karl",
+      "workerType": "WOODCUTTER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Antonio",
+      "workerType": "WOODCUTTER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Mcyul",
+      "workerType": "MINER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Carlo",
+      "workerType": "MINER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Mark",
+      "workerType": "BUILDER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "John",
+      "workerType": "MINER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Jens",
+      "workerType": "MINER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Dave",
+      "workerType": "BUILDER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    },
+    {
+      "name": "Andrew",
+      "workerType": "BUILDER",
+      "daysHungry": 0,
+      "hungry": false,
+      "alive": true
+    }
+  ],
+  "projectsList": [
+    {
+      "name": "Castle",
+      "buildingType": "CASTLE",
+      "woodCost": 50,
+      "metalCost": 50,
+      "daysToBuild": 50,
+      "daysWorkedOn": 0,
+      "complete": false
+    }
+  ],
+  "buildingsList": [
+    {
+      "name": "House0",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    },
+    {
+      "name": "House1",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    },
+    {
+      "name": "House2",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    },
+    {
+      "name": "Handyman",
+      "buildingType": "WOODMILL",
+      "woodCost": 5,
+      "metalCost": 1,
+      "daysToBuild": 5,
+      "daysWorkedOn": 5,
+      "complete": true
+    },
+    {
+      "name": "ICA",
+      "buildingType": "FARM",
+      "woodCost": 5,
+      "metalCost": 2,
+      "daysToBuild": 5,
+      "daysWorkedOn": 5,
+      "complete": true
+    },
+    {
+      "name": "House4",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    },
+    {
+      "name": "Conglomorata",
+      "buildingType": "QUARRY",
+      "woodCost": 3,
+      "metalCost": 5,
+      "daysToBuild": 7,
+      "daysWorkedOn": 7,
+      "complete": true
+    },
+    {
+      "name": "Minecraft",
+      "buildingType": "QUARRY",
+      "woodCost": 3,
+      "metalCost": 5,
+      "daysToBuild": 7,
+      "daysWorkedOn": 7,
+      "complete": true
+    },
+    {
+      "name": "House5",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    },
+    {
+      "name": "House5",
+      "buildingType": "HOUSE",
+      "woodCost": 5,
+      "metalCost": 0,
+      "daysToBuild": 3,
+      "daysWorkedOn": 3,
+      "complete": true
+    }
+  ]
+}
